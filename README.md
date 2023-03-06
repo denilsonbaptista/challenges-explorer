@@ -58,5 +58,11 @@
             <td align="center"><a href="02"><img width="200px" src="https://i.imgur.com/Vow5dDM.png" /></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(02)/">Challenge<br /> done ✅</a></td>
         </tr>
+        <tr>
+            <td>03</td>
+            <td><a href="Stage-02/corrigindo-bugs-(02)">Semântica e acessibilidade</a></td>
+            <td align="center"><a href="02"><img width="200px" src="https://i.imgur.com/BO8nU5e.png" /></a></td>
+            <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/codigo-do-desafio-acessibilidade/">Challenge<br /> done ✅</a></td>
+        </tr>
     </tbody>
 </table></p>

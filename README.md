@@ -19,7 +19,7 @@
                 </p>
             </th>
             <th align="center">
-                <img width="450" height="1"> 
+                <img width="300" height="1"> 
                 <p> 
                     <small>
                         NAME
@@ -34,6 +34,14 @@
                     </small>
                 </p>
             </th>
+            <th align="center">
+                <img width="100" height="1">
+                <p align="center"> 
+                    <small>
+                    CONCLUDED
+                    </small>
+                </p>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -42,11 +50,13 @@
             <td><a href="Stage-02/corrigindo-bugs-(01)">Corrigindo bugs (01) </a></td>
             <td align="center">
             <a href="01"><img width="200px" src="https://i.imgur.com/BOaJdXD.png" /></a></td>
+            <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(01)/">Challenge<br /> done ✅</a></td>
         </tr>
         <tr>
             <td>02</td>
             <td><a href="Stage-02/corrigindo-bugs-(02)">Corrigindo bugs (02)</a></td>
             <td align="center"><a href="02"><img width="200px" src="https://i.imgur.com/Vow5dDM.png" /></a></td>
+            <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(02)/">Challenge<br /> done ✅</a></td>
         </tr>
     </tbody>
 </table></p>

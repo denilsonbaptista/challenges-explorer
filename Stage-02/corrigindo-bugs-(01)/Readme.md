@@ -9,6 +9,9 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 ![desafio](https://i.imgur.com/BOaJdXD.png)
 
 
-**Desafio concluído ✅**
+### Desafio concluído ✅
+
+[Acesse o desafio concluído](https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(01)/)
+
 
 ![desafio_concluido](https://i.imgur.com/rBtnwWR.png)

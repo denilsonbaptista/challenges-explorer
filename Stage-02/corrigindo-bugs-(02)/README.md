@@ -7,6 +7,8 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 ![desafio](https://i.imgur.com/tvtv9hw.png)
 
 
-**Desafio concluído ✅**
+### Desafio concluído ✅
+
+[Acesse o desafio concluído](https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(02)/)
 
 ![desafio_concluido](https://i.imgur.com/opq69GJ.png)

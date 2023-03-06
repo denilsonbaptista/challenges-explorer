@@ -19,7 +19,7 @@
                 </p>
             </th>
             <th align="center">
-                <img width="400" height="1"> 
+                <img width="450" height="1"> 
                 <p> 
                     <small>
                         NAME
@@ -27,7 +27,7 @@
                 </p>
             </th>
             <th align="center">
-                <img width="201" height="1">
+                <img width="250" height="1">
                 <p align="center"> 
                     <small>
                     PREVIEW

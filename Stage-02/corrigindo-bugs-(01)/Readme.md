@@ -8,7 +8,6 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 
 ![desafio](https://i.imgur.com/BOaJdXD.png)
 
----
 
 **Desafio concluído ✅**
 

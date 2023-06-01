@@ -47,14 +47,14 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="./Stage-04/exercicio-01">O desafio é solicitar ao usuário que ele insira dois números e, a partir daí, calcular</a></td>
-            <td align="center"><a href="Stage-04/exercicio-01"><img width="200px" src="https://i.imgur.com/JzWcDKi.gif"/></a></td>
+            <td><a href="exercicio-01">O desafio é solicitar ao usuário que ele insira dois números e, a partir daí, calcular</a></td>
+            <td align="center"><a href="exercicio-01"><img width="200px" src="https://i.imgur.com/JzWcDKi.gif"/></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-04/exercicio-01/">Challenge<br /> done ✅</a></td>
         </tr>
          <tr>
             <td>02</td>
-            <td><a href="./Stage-04/exercicio-02">O desafio é irá criar uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados</a></td>
-            <td align="center"><a href="Stage-04/exercicio-02"><img width="200px" src="https://i.imgur.com/104BciK.gif"/></a></td>
+            <td><a href="exercicio-02">O desafio é irá criar uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados</a></td>
+            <td align="center"><a href="exercicio-02"><img width="200px" src="https://i.imgur.com/104BciK.gif"/></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-04/exercicio-02/">Challenge<br /> done ✅</a></td>
         </tr>
     </tbody>

@@ -49,10 +49,10 @@
                 01
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-01">Crie um script que exiba a mensagem "Hello World!" em um alerta no navegador</a>
+                <a href="challenge-01">Crie um script que exiba a mensagem "Hello World!" em um alerta no navegador</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-01">
+                <a href="challenge-01">
                     <img width="200px" src="https://i.imgur.com/XrQpMz1.gif"/>
                 </a>    
             </td>
@@ -69,10 +69,10 @@
                 02
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-02">Crie um script que declare duas variáveis e exiba o resultado da soma entre elas</a>
+                <a href="challenge-02">Crie um script que declare duas variáveis e exiba o resultado da soma entre elas</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-02">
+                <a href="challenge-02">
                     <img width="200px" src="https://i.imgur.com/i4ap67o.gif"/>
                 </a>    
             </td>
@@ -89,10 +89,10 @@
                 03
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-03">Crie um script que declare uma variável e verifique se o seu valor é um número. Se for, exiba a mensagem "É um número", caso contrário, exiba a mensagem "Não é um número"</a>
+                <a href="challenge-03">Crie um script que declare uma variável e verifique se o seu valor é um número. Se for, exiba a mensagem "É um número", caso contrário, exiba a mensagem "Não é um número"</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-03">
+                <a href="challenge-03">
                     <img width="200px" src="https://i.imgur.com/ugkQng0.gif"/>
                 </a>    
             </td>
@@ -109,10 +109,10 @@
                 04
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-04">Crie um script que declare uma variável e verifique se o seu valor é uma string. Se for, exiba a mensagem "É uma string", caso contrário, exiba a mensagem "Não é uma string"</a>
+                <a href="challenge-04">Crie um script que declare uma variável e verifique se o seu valor é uma string. Se for, exiba a mensagem "É uma string", caso contrário, exiba a mensagem "Não é uma string"</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-04">
+                <a href="challenge-04">
                     <img width="200px" src="https://i.imgur.com/E6Zljka.gif"/>
                 </a>    
             </td>
@@ -129,10 +129,10 @@
                 05
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-05">Crie um script que declare uma variável e verifique se o seu valor é um booleano. Se for, exiba a mensagem "É um booleano", caso contrário, exiba a mensagem "Não é um booleano"</a>
+                <a href="challenge-05">Crie um script que declare uma variável e verifique se o seu valor é um booleano. Se for, exiba a mensagem "É um booleano", caso contrário, exiba a mensagem "Não é um booleano"</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-05">
+                <a href="challenge-05">
                     <img width="200px" src="https://i.imgur.com/ABuEgHv.gif"/>
                 </a>    
             </td>
@@ -149,10 +149,10 @@
                 06
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-06">Crie um script que declare duas variáveis e exiba o resultado da subtração entre elas</a>
+                <a href="challenge-06">Crie um script que declare duas variáveis e exiba o resultado da subtração entre elas</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-06">
+                <a href="challenge-06">
                     <img width="200px" src="https://i.imgur.com/sG17mJF.gif"/>
                 </a>    
             </td>
@@ -169,10 +169,10 @@
                 07
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-07">Crie um script que declare duas variáveis e exiba o resultado da multiplicação entre elas</a>
+                <a href="challenge-07">Crie um script que declare duas variáveis e exiba o resultado da multiplicação entre elas</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-07">
+                <a href="challenge-07">
                     <img width="200px" src="https://i.imgur.com/cXWRcfQ.gif"/>
                 </a>    
             </td>
@@ -189,10 +189,10 @@
                 08
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-08">Crie um script que declare duas variáveis e exiba o resultado da divisão entre elas</a>
+                <a href="challenge-08">Crie um script que declare duas variáveis e exiba o resultado da divisão entre elas</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-08">
+                <a href="challenge-08">
                     <img width="200px" src="https://i.imgur.com/7LuMHhS.gif"/>
                 </a>    
             </td>
@@ -209,10 +209,10 @@
                 09
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-09">Crie um script que declare uma variável e verifique se o seu valor é um número par. Se for, exiba a mensagem "É um número par", caso contrário, exiba a mensagem "Não é um número par"</a>
+                <a href="challenge-09">Crie um script que declare uma variável e verifique se o seu valor é um número par. Se for, exiba a mensagem "É um número par", caso contrário, exiba a mensagem "Não é um número par"</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-09">
+                <a href="challenge-09">
                     <img width="200px" src="https://i.imgur.com/BbVYpf8.gif"/>
                 </a>    
             </td>
@@ -229,10 +229,10 @@
                 10
             </td>
             <td>
-                <a href="intensivao-iniciando-com-javaScript/challenge-10">Crie um script que declare uma variável e verifique se o seu valor é um número ímpar. Se for, exiba a mensagem "É um número ímpar", caso contrário, exiba a mensagem "Não é um número ímpar"</a>
+                <a href="challenge-10">Crie um script que declare uma variável e verifique se o seu valor é um número ímpar. Se for, exiba a mensagem "É um número ímpar", caso contrário, exiba a mensagem "Não é um número ímpar"</a>
             </td>
             <td align="center">
-                <a href="intensivao-iniciando-com-javaScript/challenge-10">
+                <a href="challenge-10">
                     <img width="200px" src="https://i.imgur.com/L6zgrsv.gif"/>
                 </a>    
             </td>

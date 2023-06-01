@@ -47,21 +47,21 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="Stage-02/corrigindo-bugs-(01)">Corrigindo bugs (01) </a></td>
+            <td><a href="corrigindo-bugs-(01)">Corrigindo bugs (01) </a></td>
             <td align="center">
-            <a href="Stage-02/corrigindo-bugs-(01)"><img width="200px" src="https://i.imgur.com/BOaJdXD.png"/></a></td>
+            <a href="corrigindo-bugs-(01)"><img width="200px" src="https://i.imgur.com/BOaJdXD.png"/></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(01)/">Challenge<br /> done ✅</a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="Stage-02/corrigindo-bugs-(02)">Corrigindo bugs (02)</a></td>
-            <td align="center"><a href="Stage-02/corrigindo-bugs-(02)"><img width="200px" src="https://i.imgur.com/Vow5dDM.png"/></a></td>
+            <td><a href="corrigindo-bugs-(02)">Corrigindo bugs (02)</a></td>
+            <td align="center"><a href="corrigindo-bugs-(02)"><img width="200px" src="https://i.imgur.com/Vow5dDM.png"/></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/corrigindo-bugs-(02)/">Challenge<br /> done ✅</a></td>
         </tr>
         <tr>
             <td>03</td>
-            <td><a href="Stage-02/codigo-do-desafio-acessibilidade">Semântica e acessibilidade</a></td>
-            <td align="center"><a href="Stage-02/codigo-do-desafio-acessibilidade"><img width="200px" src="https://i.imgur.com/BO8nU5e.png"/></a></td>
+            <td><a href="codigo-do-desafio-acessibilidade">Semântica e acessibilidade</a></td>
+            <td align="center"><a href="codigo-do-desafio-acessibilidade"><img width="200px" src="https://i.imgur.com/BO8nU5e.png"/></a></td>
             <td align="center"><a href="https://denilsonbaptista.github.io/explorer/Stage-02/codigo-do-desafio-acessibilidade/">Challenge<br /> done ✅</a></td>
         </tr>
     </tbody>
